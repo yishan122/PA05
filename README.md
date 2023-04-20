@@ -1,4 +1,5 @@
 # PA04
 
 npm start run
-#python main.py
+
+python main.py
